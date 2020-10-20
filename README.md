@@ -14,7 +14,7 @@ Algunas cositas sobre mi
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<img src="https://giphy.com/gifs/7TudjqAJmnpW9mYeqW/html5" title="Não fumo cigarro"
+<img src="https://media.giphy.com/media/7TudjqAJmnpW9mYeqW/giphy.gif" title="Não fumo cigarro"
     align="right"  width="300px">
 <h3>Toda manhã é uma nova oportunidade, de voltar para a cama!</h3>
 
