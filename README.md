@@ -12,7 +12,7 @@ Algunas cositas sobre mi
  🤔 I’m looking for help with ... <br>
 - 💬 Ask me about ... <br>
 - 📫 How to reach me: ... <br>
-- 😄 Pronouns: ... <br>
+- 😄 Pronouns:  ... <br>
 - ⚡ Fun fact: ... </h6>
 
 <img src="https://media.giphy.com/media/7TudjqAJmnpW9mYeqW/giphy.gif" title="Não fumo cigarro"
