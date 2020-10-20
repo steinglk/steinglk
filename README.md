@@ -14,16 +14,13 @@ Algunas cositas sobre mi
 
 <br>
 
-## 👨‍💻 Linguagens e ferramentas que conheço:
+## 👨‍💻 Faço Hello World nas seguintes linguagens:
 
 [<img src="./python.png" width="40" height="40" title="Python" alt=Python>](https://www.python.org/)
 [<img src="./c.png" width="40" height="40" title="C" alt=C>](https://www.learn-c.org/)
 [<img src="./java.png" width="40" height="40" title="Java" alt=Java>](https://www.java.com/pt-BR/)
-[<img src="./html.png" width="40" height="40" title="HTML5" alt=HTML5>](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-[<img src="./css.png" width="40" height="40" title="CSS3" alt=CSS >](https://www.w3schools.com/css/)
 [<img src="./js.png" width="40" height="40" title="Java Script" alt=JS>](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-[<img src="./flutter.png" width="40" height="40" title="Flutter" alt=FLUTTER>](https://flutter.dev/)
-[<img src="./ionic.png" width="40" height="40" title="Ionic" alt=IONIC>](https://ionicframework.com/)
+[<img src="./ruby-rails.png" width="40" height="40" title="Ruby on Rails" alt=Ruby>](https://rubyonrails.org/)
 
 <br>
 
