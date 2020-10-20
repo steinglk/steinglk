@@ -17,7 +17,8 @@
 [<img src="./c.png" width="40" height="40" title="C" alt=C>](https://www.learn-c.org/)
 [<img src="./java.png" width="40" height="40" title="Java" alt=Java>](https://www.java.com/pt-BR/)
 [<img src="./js.png" width="40" height="40" title="Java Script" alt=JS>](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-[<img src="./ruby-rails.png" width="40" height="40" title="Ruby on Rails" alt=Ruby>](https://rubyonrails.org/)
+[<img src="./ruby-rails.png" width="40" height="40" title="Ruby on Rails" alt=Rails>](https://rubyonrails.org/)
+[<img src="./ruby.png" width="40" height="40" title="Ruby on Rails" alt=Ruby>](https://www.ruby-lang.org/pt/)
 
 <br>
 
