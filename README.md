@@ -1,9 +1,5 @@
 ## Olá eu sou o Stein 😄
 
-<h3> Comer tatu é bom, que pena que da dor nas costas</h3>
-
-Algunas cositas sobre mi
-
 <img src="https://media.giphy.com/media/VigrMqLg1C9C8/giphy.gif" title="Não fumo cigarro"
     align="right"  width="300px">
 <h3>Redes e contatos </h3>
@@ -11,6 +7,7 @@ Algunas cositas sobre mi
 [<img src="./github.png" width="40" height="40">](https://github.com/steinglk)
 [<img src="./insta.png" width="40" height="40">](https://www.instagram.com/steinzito/)
 [<img src="./twitter.png" width="40" height="40">](https://twitter.com/steinzito)
+[<img src="./uri.png" width ="50" height="40">](https://www.urionlinejudge.com.br/judge/pt/profile/161992)
 
 <br>
 
