@@ -1,23 +1,9 @@
-###### matheus stein 👋
-
+## Olá eu sou o Stein 😄
 
 <h3> Comer tatu é bom, que pena que da dor nas costas</h3>
 
 Algunas cositas sobre mi
 
-###### 🔭 I’m currently working on ...
-###### 🌱 I’m currently learning ...
-
-<div width="450">
-
-<h6> 👯 I’m loooking to collaborate on ... <br>
-
- 🤔 I’m looking for help with ... <br>
-- 💬 Ask me about ... <br>
-- 📫 How to reach me: ... <br>
-- 😄 Pronxcxzvxzvouns:  ... <br>
-- ⚡ Fun fact: ... </h6>
-</div>
 <img src="https://media.giphy.com/media/7TudjqAJmnpW9mYeqW/giphy.gif" title="Não fumo cigarro"
     align="right"  width="300px">
 <h3>Redes e contatos </h3>
