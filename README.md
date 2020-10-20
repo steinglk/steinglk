@@ -4,7 +4,7 @@
 
 Algunas cositas sobre mi
 
-<img src="https://media.giphy.com/media/7TudjqAJmnpW9mYeqW/giphy.gif" title="Não fumo cigarro"
+<img src="https://media.giphy.com/media/VigrMqLg1C9C8/giphy.gif" title="Não fumo cigarro"
     align="right"  width="300px">
 <h3>Redes e contatos </h3>
 
