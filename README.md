@@ -7,14 +7,17 @@ Algunas cositas sobre mi
 
 ###### 🔭 I’m currently working on ...
 ###### 🌱 I’m currently learning ...
-<h6 style = "width:450px;"> 👯 I’m loooking to collaborate on ... <br>
+
+<div width="450px">
+
+<h6> 👯 I’m loooking to collaborate on ... <br>
 
  🤔 I’m looking for help with ... <br>
 - 💬 Ask me about ... <br>
 - 📫 How to reach me: ... <br>
 - 😄 Pronxcxzvxzvouns:  ... <br>
 - ⚡ Fun fact: ... </h6>
-
+</div>
 <img src="https://media.giphy.com/media/7TudjqAJmnpW9mYeqW/giphy.gif" title="Não fumo cigarro"
     align="right"  width="300px">
 <h3>Toda manhã é uma nova oportunidade, de voltar para a cama!</h3>
