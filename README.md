@@ -8,7 +8,7 @@ Algunas cositas sobre mi
 ###### 🔭 I’m currently working on ...
 ###### 🌱 I’m currently learning ...
 
-<div width="450px">
+<div width="450">
 
 <h6> 👯 I’m loooking to collaborate on ... <br>
 
@@ -20,7 +20,7 @@ Algunas cositas sobre mi
 </div>
 <img src="https://media.giphy.com/media/7TudjqAJmnpW9mYeqW/giphy.gif" title="Não fumo cigarro"
     align="right"  width="300px">
-<h3>Toda manhã é uma nova oportunidade, de voltar para a cama!</h3>
+<h3>Redes e contatos </h3>
 
 [<img src="./github.png" width="40" height="40">](https://github.com/steinglk)
 [<img src="./insta.png" width="40" height="40">](https://www.instagram.com/steinzito/)
