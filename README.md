@@ -1,7 +1,18 @@
 ## Olá eu sou o Stein 😄
+### Frase motivacional em construção
 
 <img src="https://media.giphy.com/media/VigrMqLg1C9C8/giphy.gif" title="Não fumo cigarro"
     align="right"  width="300px">
+
+## Algumas curiosidades sobre mim:
+- 🧔 Me chamo Matheus Stein, tenho 21 anos.
+- 🇲🇽 Fui embaixador pelo Rotary no México no periodo de 2017/2018
+- 🎮 Tenho uma paixão por games competitivos,seja online ou não ⚽
+- 🧠 Gosto de entender como a mente humana funciona
+- 🌎 Sou curioso para conhecer o mundo cada vez mais
+
+<br>
+
 <h3>Redes e contatos </h3>
 
 [<img src="./github.png" width="40" height="40">](https://github.com/steinglk)
@@ -18,7 +29,7 @@
 [<img src="./java.png" width="40" height="40" title="Java" alt=Java>](https://www.java.com/pt-BR/)
 [<img src="./js.png" width="40" height="40" title="Java Script" alt=JS>](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 [<img src="./ruby-rails.png" width="40" height="40" title="Ruby on Rails" alt=Rails>](https://rubyonrails.org/)
-[<img src="./ruby.png" width="40" height="40" title="Ruby on Rails" alt=Ruby>](https://www.ruby-lang.org/pt/)
+[<img src="./ruby.png" width="40" height="40" title="Ruby" alt=Ruby>](https://www.ruby-lang.org/pt/)
 
 <br>
 
