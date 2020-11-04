@@ -1,5 +1,5 @@
 ## Olá eu sou o Stein 😄
-### Frase motivacional em construção
+### Se ta dificil, é por que não me acostumei ainda.
 
 <img src="https://media.giphy.com/media/VigrMqLg1C9C8/giphy.gif" title="Não fumo cigarro"
     align="right"  width="300px">
