@@ -18,7 +18,7 @@
 [<img src="./github.png" width="40" height="40" title="Github" alt="Github">](https://github.com/steinglk)
 [<img src="./insta.png" width="40" height="40" title="Instagram" alt="Instagram">](https://www.instagram.com/steinzito/)
 [<img src="./uri.png" width ="50" height="40" title="Uri Online Judge" alt="URI">](https://www.urionlinejudge.com.br/judge/pt/profile/161992)
-[<img src="./linkedin.png" width ="50" height="40" title="Linkedin" alt="URI">](https://www.linkedin.com/in/matheus-stein-dev/)
+[<img src="./linkedin.png" width ="40" height="40" title="Linkedin" alt="URI">](https://www.linkedin.com/in/matheus-stein-dev/)
 
 <br>
 
