@@ -10,7 +10,6 @@
 - 🎮 Tenho uma paixão por games competitivos, seja online ou não ⚽
 - 🧠 Gosto de aprender e compartilhar experiências
 - 🌎 Sou curioso para conhecer o mundo cada vez mais
-- 
 
 <br>
 
