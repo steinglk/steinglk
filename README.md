@@ -8,8 +8,9 @@
 - 🧔 Me chamo Matheus Stein, tenho 22 anos.
 - 🇲🇽 Fui embaixador pelo Rotary no México no periodo de 2017/2018
 - 🎮 Tenho uma paixão por games competitivos, seja online ou não ⚽
-- 🧠 Gosto de entender como a mente humana funciona
+- 🧠 Gosto de aprender e compartilhar experiências
 - 🌎 Sou curioso para conhecer o mundo cada vez mais
+- 
 
 <br>
 
