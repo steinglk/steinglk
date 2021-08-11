@@ -17,7 +17,6 @@
 
 [<img src="./github.png" width="40" height="40" title="Github" alt="Github">](https://github.com/steinglk)
 [<img src="./insta.png" width="40" height="40" title="Instagram" alt="Instagram">](https://www.instagram.com/steinzito/)
-[<img src="./twitter.png" width="40" height="40" title="Twitter" alt="Twitter">](https://twitter.com/steinzito)
 [<img src="./uri.png" width ="50" height="40" title="Uri Online Judge" alt="URI">](https://www.urionlinejudge.com.br/judge/pt/profile/161992)
 
 <br>
