@@ -1,8 +1,6 @@
 ## Olá eu sou o Stein 😄
 ### Se ta dificil, é por que não me acostumei ainda.
 
-<img src="https://media.giphy.com/media/VigrMqLg1C9C8/giphy.gif" title="Viva México"
-    align="right"  width="300px">
 
 ## Algumas curiosidades sobre mim:
 - 🧔 Me chamo Matheus Stein, tenho 22 anos.
