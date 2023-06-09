@@ -3,11 +3,11 @@
 
 
 ## Algumas curiosidades sobre mim:
-- 🧔 Me chamo Matheus Stein, tenho 22 anos.
+- 🧔 Me chamo Matheus Stein, tenho 24 anos.
 - 🇲🇽 Fui embaixador pelo Rotary no México no periodo de 2017/2018
 - 🎮 Tenho uma paixão por games competitivos, seja online ou não ⚽
 - 🧠 Gosto de aprender e compartilhar experiências
-- 🌎 Sou curioso para conhecer o mundo cada vez mais
+- 🌎 Amo viajar por ai, dar umas de nômade digital
 
 <br>
 
